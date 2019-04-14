@@ -1,0 +1,10 @@
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\bin\Debug\TheThirdLab_FirstCourse.exe.config
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\bin\Debug\TheThirdLab_FirstCourse.exe
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\bin\Debug\TheThirdLab_FirstCourse.pdb
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.csprojAssemblyReference.cache
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.Form1.resources
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.Properties.Resources.resources
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.csproj.GenerateResource.cache
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.csproj.CoreCompileInputs.cache
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.exe
+C:\Users\RocketOdessa\source\repos\TheThirdLab_FirstCourse\TheThirdLab_FirstCourse\obj\Debug\TheThirdLab_FirstCourse.pdb
