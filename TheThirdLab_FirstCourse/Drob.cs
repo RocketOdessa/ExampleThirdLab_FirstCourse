@@ -35,7 +35,7 @@ namespace TheThirdLab_FirstCourse
             Denominator = drob.Denominator;
         }
 
-        public int NumeratorDrob { get => Numerator; set => Numerator = value; }
+        public int NumeratorDrob { get => Numerator; set => Numerator = value != 0 ? value : 1; }
         public int DenominatorDrob { get => Denominator; set => Denominator = value != 0 ? value : 1; }
 
 
@@ -69,18 +69,6 @@ namespace TheThirdLab_FirstCourse
         {
             return " " + NumeratorDrob + "\n---\n " + DenominatorDrob;
         }
-
-   //     public Drob Add(Drob DrobAdd)
-   //     {
-   //         /*
-			// 2        4    2*5 + 4*3   
-			//---   +  --- = ---
-			// 3        5      15
-			// */
-   //         int commonDenominator = DenominatorDrob * DrobAdd.DenominatorDrob;
-   //         int commonNumerator = NumeratorDrob* DrobAdd.DenominatorDrob + DrobAdd.NumeratorDrob * this.DenominatorDrob;
-   //         return new Drob(commonNumerator, commonDenominator);
-   //     }
 
         public static Drob operator +(Drob FirstDrob, Drob SecondDrob)
         {
